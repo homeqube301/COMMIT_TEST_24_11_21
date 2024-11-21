@@ -42,6 +42,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     COMMIT_TEST_24_11_21Theme {
-        Greeting("Android")
+        Greeting("Shibayama")
     }
 }
